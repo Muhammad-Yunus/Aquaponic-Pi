@@ -31,5 +31,5 @@
     e. TDS 
 
 ##### Design And Developed By :
-[Legendre Technology](https://www.facebook.com/LegendreTechnology/)
-(Ziath & Robby) PRC Dept.of Physics Bogor Agricultural University 
+- [Legendre Technology](https://www.facebook.com/LegendreTechnology/)
+- (Ziath & Robby) PRC Dept.of Physics Bogor Agricultural University 
