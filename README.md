@@ -26,7 +26,7 @@
 - Python program :
     a. DS18B20
     b. PCF8591
-    c. Selenoid Valave
+    c. Selenoid Valve
     d. Water Level
     e. TDS 
 
